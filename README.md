@@ -10,7 +10,8 @@
 
 ## Developer : Elsa
 
-## Repository: https://github.com/mhmnardh/Kelompok_5_Project-issue
+## Repository: [https://github.com/mhmnardh/Kelompok_5_Project-issue)
+## Url Hosting: [https://github.com/mhmnardh/Kelompok_5_Project-issue](https://kelompok-5-project-issue.onrender.com/)
 
 ## Reviewer/Tester:
 
