@@ -20,7 +20,7 @@
             <div class="card-body text-center">
                 <h5 class="card-title fw-bold">Bunga</h5>
                 <p class="card-text text-muted mb-1">Absen: 7</p>
-                <span class="badge bg-primary">Developer</span>
+                <span class="badge bg-dark">Developer</span>
             </div>
         </div>
     </div>
@@ -29,7 +29,7 @@
             <div class="card-body text-center">
                 <h5 class="card-title fw-bold">Elsa</h5>
                 <p class="card-text text-muted mb-1">Absen: 9</p>
-                <span class="badge bg-secondary">Developer</span>
+                <span class="badge bg-dark">Developer</span>
             </div>
         </div>
     </div>
